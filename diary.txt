@@ -1,0 +1,6 @@
+1. Configure /etc/netplan/01-netcfg.yaml
+2. edit /etc/hostname and /etc/resolvconf/resolvconf.conf.d/head for domain
+3. install isc-dhcp-server and setup isc-dhcp-server
+4. Install dns server
+5. create users and groups
+
